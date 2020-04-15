@@ -1,0 +1,802 @@
+[
+  {
+    "uuid": "59f7bdc9-ef0f-4e29-9dee-17bf4b2554b1",
+    "first_name": "Gabi",
+    "last_name": "Mooring",
+    "email": "gmooring0@ezinearticles.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "ALL^F",
+      "name": "Allstate Corporation (The)",
+      "marketCap": "n/a",
+      "price": "$25.94",
+      "isOwned": false,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "2c442aff-ba89-402d-82be-e176877274a6",
+    "first_name": "Justin",
+    "last_name": "Riepel",
+    "email": "jriepel1@mashable.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "JHX",
+      "name": "James Hardie Industries plc.",
+      "marketCap": "$6.77B",
+      "price": "$46.30",
+      "isOwned": false,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "8117d0b1-23ef-4d04-834f-8cc0ed1dda4e",
+    "first_name": "Persis",
+    "last_name": "Standbrook",
+    "email": "pstandbrook2@homestead.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "DTQ",
+      "name": "DTE Energy Company",
+      "marketCap": "n/a",
+      "price": "$63.23",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "059b5e5f-9eac-475d-8b33-b1a02c1514c9",
+    "first_name": "Aldwin",
+    "last_name": "Jerrold",
+    "email": "ajerrold3@diigo.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "GWW",
+      "name": "W.W. Grainger, Inc.",
+      "marketCap": "$10.53B",
+      "price": "$110.04",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "f5862bf8-65d6-4149-addb-d18c976df934",
+    "first_name": "Kerby",
+    "last_name": "Oldaker",
+    "email": "koldaker4@bandcamp.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "GENE",
+      "name": "Genetic Technologies Ltd",
+      "marketCap": "$12.31M",
+      "price": "$87.79",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "95ee135f-497f-4bbf-bd88-e69adc8207ab",
+    "first_name": "Costa",
+    "last_name": "Yewdell",
+    "email": "cyewdell5@hhs.gov",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "TKC",
+      "name": "Turkcell Iletisim Hizmetleri AS",
+      "marketCap": "$7.2B",
+      "price": "$118.08",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "250d3822-ec35-4186-8b3e-16b42493efca",
+    "first_name": "Coleen",
+    "last_name": "Merriment",
+    "email": "cmerriment6@google.es",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "AJX",
+      "name": "Great Ajax Corp.",
+      "marketCap": "$273.46M",
+      "price": "$46.68",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "11bf58af-2583-4583-8e00-8a860bee6771",
+    "first_name": "Marchelle",
+    "last_name": "Cremen",
+    "email": "mcremen7@sohu.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "CSWI",
+      "name": "CSW Industrials, Inc.",
+      "marketCap": "$589.55M",
+      "price": "$54.15",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "d164b993-a592-4181-8773-f827f5d2ed27",
+    "first_name": "Lissi",
+    "last_name": "Butson",
+    "email": "lbutson8@163.com",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "PHD",
+      "name": "Pioneer Floating Rate Trust",
+      "marketCap": "$293.39M",
+      "price": "$109.23",
+      "isOwned": false,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "50c46454-a14c-498d-bea3-ac07c5ae380f",
+    "first_name": "Blanch",
+    "last_name": "Vautrey",
+    "email": "bvautrey9@cargocollective.com",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "DLB",
+      "name": "Dolby Laboratories",
+      "marketCap": "$5.04B",
+      "price": "$2.85",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "eeedc0be-b320-4962-b441-514b5c73082b",
+    "first_name": "Livia",
+    "last_name": "Tilling",
+    "email": "ltillinga@bloglines.com",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "TRNS",
+      "name": "Transcat, Inc.",
+      "marketCap": "$84.17M",
+      "price": "$38.38",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "e2c01f85-6314-4098-9069-e164bc02c8a9",
+    "first_name": "Gavrielle",
+    "last_name": "Tyson",
+    "email": "gtysonb@twitpic.com",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "GFN",
+      "name": "General Finance Corporation",
+      "marketCap": "$125.85M",
+      "price": "$21.57",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "e921749d-2d2f-4263-863e-e2122712417c",
+    "first_name": "Leslie",
+    "last_name": "Ondra",
+    "email": "londrac@theglobeandmail.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "NETS",
+      "name": "Netshoes (Cayman) Limited",
+      "marketCap": "$588.87M",
+      "price": "$83.04",
+      "isOwned": false,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "74712a62-aded-46ad-9bde-8b0923167bac",
+    "first_name": "Yancey",
+    "last_name": "Genn",
+    "email": "ygennd@tripadvisor.com",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "MTU",
+      "name": "Mitsubishi UFJ Financial Group Inc",
+      "marketCap": "$87.97B",
+      "price": "$101.97",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "3a896513-534e-4f0b-82fa-fb74c0a965ad",
+    "first_name": "Flore",
+    "last_name": "Minor",
+    "email": "fminore@umn.edu",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "RMTI",
+      "name": "Rockwell Medical, Inc.",
+      "marketCap": "$405.53M",
+      "price": "$90.43",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "ba51dfc9-a50e-41a7-b903-70fee88a8752",
+    "first_name": "Gipsy",
+    "last_name": "Guitte",
+    "email": "gguittef@blogger.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "CRDT",
+      "name": "WisdomTree Strategic Corporate Bond Fund",
+      "marketCap": "$7.84M",
+      "price": "$60.39",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "efa61a4e-a96c-4701-9518-1fa18d941962",
+    "first_name": "Alexander",
+    "last_name": "Pau",
+    "email": "apaug@com.com",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "PODD",
+      "name": "Insulet Corporation",
+      "marketCap": "$2.71B",
+      "price": "$68.59",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "5cdae831-c487-4d63-95bf-5407fcdb7d9e",
+    "first_name": "Logan",
+    "last_name": "Tulloch",
+    "email": "ltullochh@mozilla.com",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "marketCap": "$727.12M",
+      "price": "$86.08",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "1f9ddc47-9f7d-4774-a523-0084b378601d",
+    "first_name": "Carita",
+    "last_name": "Plan",
+    "email": "cplani@earthlink.net",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "EGRX",
+      "name": "Eagle Pharmaceuticals, Inc.",
+      "marketCap": "$1.12B",
+      "price": "$54.75",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "a69037e4-7647-4c2d-9b6e-104cb7a7bad7",
+    "first_name": "Brooks",
+    "last_name": "Ramble",
+    "email": "bramblej@over-blog.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "MITT^B",
+      "name": "AG Mortgage Investment Trust, Inc.",
+      "marketCap": "n/a",
+      "price": "$68.07",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "775e51ce-9266-4d50-8f89-3389d15fdd93",
+    "first_name": "Dennis",
+    "last_name": "Nucator",
+    "email": "dnucatork@cmu.edu",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "SAIC",
+      "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "marketCap": "$3.1B",
+      "price": "$39.51",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "9d9bb7b7-5acb-4fec-8b3f-84e7aa949a95",
+    "first_name": "Marlee",
+    "last_name": "Deluze",
+    "email": "mdeluzel@apple.com",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "FJP",
+      "name": "First Trust Japan AlphaDEX Fund",
+      "marketCap": "$57.72M",
+      "price": "$28.72",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "258c1cdc-0cb4-40d8-82ba-7d82c8f7da8a",
+    "first_name": "Germayne",
+    "last_name": "Kilmaster",
+    "email": "gkilmasterm@gmpg.org",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "SAMG",
+      "name": "Silvercrest Asset Management Group Inc.",
+      "marketCap": "$172.77M",
+      "price": "$25.77",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "31e817c5-5b2f-4f81-9d2d-e9d9fa028a02",
+    "first_name": "Alberto",
+    "last_name": "Arson",
+    "email": "aarsonn@squidoo.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "EL",
+      "name": "Estee Lauder Companies, Inc. (The)",
+      "marketCap": "$35.86B",
+      "price": "$77.81",
+      "isOwned": false,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "dcc9cd1c-7bb0-4125-be21-c173d21bed27",
+    "first_name": "Glenn",
+    "last_name": "MacIlhagga",
+    "email": "gmacilhaggao@netlog.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "DELT",
+      "name": "Delta Technology Holdings Limited",
+      "marketCap": "$19.24M",
+      "price": "$86.14",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "4862197a-c8bb-43e0-b95f-66f573369d62",
+    "first_name": "Axel",
+    "last_name": "Noraway",
+    "email": "anorawayp@elpais.com",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "ALDW",
+      "name": "Alon USA Partners, LP",
+      "marketCap": "$669.59M",
+      "price": "$2.14",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "37e5a80f-8051-425c-b342-89fc12f8a547",
+    "first_name": "Starla",
+    "last_name": "Everleigh",
+    "email": "severleighq@sitemeter.com",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "OASM",
+      "name": "Oasmia Pharmaceutical AB",
+      "marketCap": "$38.24M",
+      "price": "$18.44",
+      "isOwned": false,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "d1a062e2-0b8e-4c90-81e3-77256cc3051c",
+    "first_name": "Fritz",
+    "last_name": "Fidgett",
+    "email": "ffidgettr@go.com",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "ACRE",
+      "name": "Ares Commercial Real Estate Corporation",
+      "marketCap": "$394.2M",
+      "price": "$36.87",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "451b5d07-a014-4ad7-a23e-d1afa1974721",
+    "first_name": "Domenico",
+    "last_name": "Swaine",
+    "email": "dswaines@discuz.net",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "INTG",
+      "name": "The Intergroup Corporation",
+      "marketCap": "$60.18M",
+      "price": "$31.03",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "89083a52-e45e-4e46-8c8d-5d1432368e6f",
+    "first_name": "Dell",
+    "last_name": "Dodridge",
+    "email": "ddodridget@webmd.com",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "VHI",
+      "name": "Valhi, Inc.",
+      "marketCap": "$1.11B",
+      "price": "$71.72",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "620ff8fd-cf50-4923-9691-d4cc4e22b510",
+    "first_name": "Reinaldos",
+    "last_name": "Bothe",
+    "email": "rbotheu@hao123.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "INN^C",
+      "name": "Summit Hotel Properties, Inc.",
+      "marketCap": "n/a",
+      "price": "$22.37",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "d769b858-f8b8-4e92-bba4-b0f176de4a86",
+    "first_name": "Lissi",
+    "last_name": "Flaunier",
+    "email": "lflaunierv@nymag.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "DTQ",
+      "name": "DTE Energy Company",
+      "marketCap": "n/a",
+      "price": "$71.87",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "cf70a68c-bf93-4c35-8ddc-1d9e763cbb51",
+    "first_name": "Pearl",
+    "last_name": "Pes",
+    "email": "ppesw@yellowpages.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "KRG",
+      "name": "Kite Realty Group Trust",
+      "marketCap": "$1.57B",
+      "price": "$91.39",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "9d113dbe-967f-46da-8b44-746f93e661fe",
+    "first_name": "Konrad",
+    "last_name": "Koppen",
+    "email": "kkoppenx@google.com",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "GOLD",
+      "name": "Randgold Resources Limited",
+      "marketCap": "$8.55B",
+      "price": "$51.27",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "3eaf5b59-8523-4668-9198-7d0ecaa6c9d5",
+    "first_name": "Addy",
+    "last_name": "Kelso",
+    "email": "akelsoy@hp.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "EDAP",
+      "name": "EDAP TMS S.A.",
+      "marketCap": "$105.14M",
+      "price": "$74.23",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "5cf946cb-6703-4ad8-a5d8-4d5e25e823a9",
+    "first_name": "Hube",
+    "last_name": "Ranvoise",
+    "email": "hranvoisez@prnewswire.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "AHT^D",
+      "name": "Ashford Hospitality Trust Inc",
+      "marketCap": "n/a",
+      "price": "$80.45",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "cba13e00-817a-4b2e-aa13-623137a7224f",
+    "first_name": "Bil",
+    "last_name": "McDaid",
+    "email": "bmcdaid10@amazon.co.jp",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "SQBG",
+      "name": "Sequential Brands Group, Inc.",
+      "marketCap": "$237.5M",
+      "price": "$50.33",
+      "isOwned": false,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "3e106ad6-39e1-4c4a-beac-d5fc049e35d2",
+    "first_name": "Blanch",
+    "last_name": "Attwill",
+    "email": "battwill11@purevolume.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "ULTI",
+      "name": "The Ultimate Software Group, Inc.",
+      "marketCap": "$6.35B",
+      "price": "$37.46",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "df7afe39-2a7c-4335-9bbe-59d864d15d95",
+    "first_name": "Hillie",
+    "last_name": "Spinas",
+    "email": "hspinas12@smugmug.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "SRPT",
+      "name": "Sarepta Therapeutics, Inc.",
+      "marketCap": "$1.78B",
+      "price": "$100.40",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "2f25c1dd-7a63-4779-9d33-8e20a1f5b87d",
+    "first_name": "Vivyan",
+    "last_name": "Fynes",
+    "email": "vfynes13@topsy.com",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "GS^C",
+      "name": "Goldman Sachs Group, Inc. (The)",
+      "marketCap": "n/a",
+      "price": "$19.43",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "980a264f-e8cd-40eb-8380-9881ead8b5eb",
+    "first_name": "Frederica",
+    "last_name": "Haylands",
+    "email": "fhaylands14@angelfire.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "PUI",
+      "name": "PowerShares DWA Utilities Momentum Portfolio",
+      "marketCap": "$87.38M",
+      "price": "$18.21",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "3b39a3c2-b1e9-434e-8967-d4b1b33a4025",
+    "first_name": "Pascal",
+    "last_name": "Jerrom",
+    "email": "pjerrom15@icio.us",
+    "gender": "Male",
+    "isSelected": false,
+    "stock": {
+      "ticker": "PRE^I",
+      "name": "PartnerRe Ltd.",
+      "marketCap": "n/a",
+      "price": "$77.90",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "7847992a-4310-44cd-a9ca-c53ff6e3fc26",
+    "first_name": "Harrie",
+    "last_name": "Conneely",
+    "email": "hconneely16@howstuffworks.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "KLAC",
+      "name": "KLA-Tencor Corporation",
+      "marketCap": "$15.32B",
+      "price": "$39.92",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "69dac5f6-5735-45bb-a259-4c39b1babae4",
+    "first_name": "Toinette",
+    "last_name": "Glasspoole",
+    "email": "tglasspoole17@shinystat.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "CADE",
+      "name": "Cadence Bancorporation",
+      "marketCap": "$1.89B",
+      "price": "$113.72",
+      "isOwned": false,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "0e256ee9-6f28-4658-a649-4fd778b877cd",
+    "first_name": "Maire",
+    "last_name": "Skull",
+    "email": "mskull18@weebly.com",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "SCACU",
+      "name": "Saban Capital Acquisition Corp.",
+      "marketCap": "n/a",
+      "price": "$110.70",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "54e795a1-cd7f-429d-8200-b6f06437a45f",
+    "first_name": "Dyana",
+    "last_name": "Walder",
+    "email": "dwalder19@yelp.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "NVDQ",
+      "name": "Novadaq Technologies Inc",
+      "marketCap": "$346.82M",
+      "price": "$19.65",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "ba02b4b3-1920-4c96-a217-ef64d008e0dd",
+    "first_name": "Michaela",
+    "last_name": "Zipsell",
+    "email": "mzipsell1a@nhs.uk",
+    "gender": "Female",
+    "isSelected": true,
+    "stock": {
+      "ticker": "NTEST.B",
+      "name": "NASDAQ TEST STOCK",
+      "marketCap": "n/a",
+      "price": "$15.00",
+      "isOwned": true,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "cad5d6fa-394d-40df-b953-79559a08f8ea",
+    "first_name": "Darius",
+    "last_name": "Fattorini",
+    "email": "dfattorini1b@ftc.gov",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "OSG",
+      "name": "Overseas Shipholding Group, Inc.",
+      "marketCap": "$192.45M",
+      "price": "$107.83",
+      "isOwned": true,
+      "isWatching": true
+    }
+  },
+  {
+    "uuid": "1d316109-eb45-408d-a1d4-6cba5d21d7b7",
+    "first_name": "Markus",
+    "last_name": "Frodsam",
+    "email": "mfrodsam1c@phpbb.com",
+    "gender": "Male",
+    "isSelected": true,
+    "stock": {
+      "ticker": "EVLV",
+      "name": "EVINE Live Inc.",
+      "marketCap": "$67.58M",
+      "price": "$101.65",
+      "isOwned": false,
+      "isWatching": false
+    }
+  },
+  {
+    "uuid": "67a01082-4247-43b1-a93e-bca96f3ed7d6",
+    "first_name": "Tuesday",
+    "last_name": "Denisyev",
+    "email": "tdenisyev1d@bluehost.com",
+    "gender": "Female",
+    "isSelected": false,
+    "stock": {
+      "ticker": "COG",
+      "name": "Cabot Oil & Gas Corporation",
+      "marketCap": "$10.76B",
+      "price": "$85.06",
+      "isOwned": true,
+      "isWatching": false
+    }
+  }
+]

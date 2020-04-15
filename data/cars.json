@@ -1,0 +1,602 @@
+[
+  {
+    "uuid": 1,
+    "car": {
+      "name": "Trish",
+      "make": "BMW",
+      "model": "7 Series",
+      "vin": "WBA3A5C55FF750513",
+      "year": 2006,
+      "isSelected": true,
+      "image": "http://dummyimage.com/214x219.jpg/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 2,
+    "car": {
+      "name": "Kahlil",
+      "make": "Lamborghini",
+      "model": "Gallardo",
+      "vin": "WAUBFAFLXCN302219",
+      "year": 2012,
+      "isSelected": false,
+      "image": "http://dummyimage.com/127x206.jpg/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 3,
+    "car": {
+      "name": "Lothaire",
+      "make": "Kia",
+      "model": "Optima",
+      "vin": "1GD21ZCG4DZ375499",
+      "year": 2002,
+      "isSelected": true,
+      "image": "http://dummyimage.com/214x147.bmp/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 4,
+    "car": {
+      "name": "Filia",
+      "make": "Toyota",
+      "model": "T100",
+      "vin": "ZHWGU5BZ8AL035761",
+      "year": 1998,
+      "isSelected": false,
+      "image": "http://dummyimage.com/238x132.png/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 5,
+    "car": {
+      "name": "Lauralee",
+      "make": "GMC",
+      "model": "Savana 1500",
+      "vin": "1VWAH7A34DC893323",
+      "year": 1997,
+      "isSelected": true,
+      "image": "http://dummyimage.com/166x168.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 6,
+    "car": {
+      "name": "Dael",
+      "make": "Mercury",
+      "model": "Villager",
+      "vin": "WAUBGAFB6AN863275",
+      "year": 2002,
+      "isSelected": true,
+      "image": "http://dummyimage.com/163x150.png/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 7,
+    "car": {
+      "name": "Ceil",
+      "make": "BMW",
+      "model": "Z8",
+      "vin": "1G4HF57919U677269",
+      "year": 2003,
+      "isSelected": false,
+      "image": "http://dummyimage.com/250x238.jpg/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 8,
+    "car": {
+      "name": "Devi",
+      "make": "Kia",
+      "model": "Sedona",
+      "vin": "KNDMA5C10F6546576",
+      "year": 2010,
+      "isSelected": false,
+      "image": "http://dummyimage.com/213x175.png/ff4444/ffffff"
+    }
+  },
+  {
+    "uuid": 9,
+    "car": {
+      "name": "Sharla",
+      "make": "Ford",
+      "model": "E-Series",
+      "vin": "JTEBU5JR3E5551102",
+      "year": 1987,
+      "isSelected": false,
+      "image": "http://dummyimage.com/218x154.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 10,
+    "car": {
+      "name": "Otto",
+      "make": "Ford",
+      "model": "Explorer",
+      "vin": "1N6AA0CH4EN789117",
+      "year": 2004,
+      "isSelected": true,
+      "image": "http://dummyimage.com/183x110.jpg/ff4444/ffffff"
+    }
+  },
+  {
+    "uuid": 11,
+    "car": {
+      "name": "Donelle",
+      "make": "Mitsubishi",
+      "model": "Starion",
+      "vin": "WVWAA7AJ7BW826376",
+      "year": 1985,
+      "isSelected": false,
+      "image": "http://dummyimage.com/177x184.jpg/ff4444/ffffff"
+    }
+  },
+  {
+    "uuid": 12,
+    "car": {
+      "name": "Alfred",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "vin": "3G5DA03E12S557041",
+      "year": 2008,
+      "isSelected": false,
+      "image": "http://dummyimage.com/169x155.png/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 13,
+    "car": {
+      "name": "Aurie",
+      "make": "Toyota",
+      "model": "MR2",
+      "vin": "WAUDH98E97A269355",
+      "year": 2004,
+      "isSelected": true,
+      "image": "http://dummyimage.com/193x226.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 14,
+    "car": {
+      "name": "Francklin",
+      "make": "Chevrolet",
+      "model": "Express 2500",
+      "vin": "WAUBNAFB9BN821819",
+      "year": 2012,
+      "isSelected": false,
+      "image": "http://dummyimage.com/139x236.bmp/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 15,
+    "car": {
+      "name": "Minnaminnie",
+      "make": "Volvo",
+      "model": "XC70",
+      "vin": "1N6AF0KX9EN031185",
+      "year": 2003,
+      "isSelected": true,
+      "image": "http://dummyimage.com/225x175.png/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 16,
+    "car": {
+      "name": "Jeffie",
+      "make": "Kia",
+      "model": "Sorento",
+      "vin": "WDDPK4HA3DF528055",
+      "year": 2008,
+      "isSelected": true,
+      "image": "http://dummyimage.com/131x138.bmp/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 17,
+    "car": {
+      "name": "Leonhard",
+      "make": "GMC",
+      "model": "Yukon",
+      "vin": "WAUEFAFL6CN667896",
+      "year": 2003,
+      "isSelected": true,
+      "image": "http://dummyimage.com/167x156.png/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 18,
+    "car": {
+      "name": "Caspar",
+      "make": "Volvo",
+      "model": "S80",
+      "vin": "WAUSH74F37N409533",
+      "year": 2010,
+      "isSelected": false,
+      "image": "http://dummyimage.com/180x221.jpg/ff4444/ffffff"
+    }
+  },
+  {
+    "uuid": 19,
+    "car": {
+      "name": "Allan",
+      "make": "Honda",
+      "model": "S2000",
+      "vin": "1G6DK8EG3A0006668",
+      "year": 2005,
+      "isSelected": true,
+      "image": "http://dummyimage.com/170x221.png/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 20,
+    "car": {
+      "name": "Milo",
+      "make": "Ram",
+      "model": "C/V",
+      "vin": "1FTEW1CF7FF924402",
+      "year": 2012,
+      "isSelected": true,
+      "image": "http://dummyimage.com/211x127.png/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 21,
+    "car": {
+      "name": "Kylen",
+      "make": "Toyota",
+      "model": "Avalon",
+      "vin": "1G4HJ5EM6AU361182",
+      "year": 2001,
+      "isSelected": true,
+      "image": "http://dummyimage.com/131x215.png/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 22,
+    "car": {
+      "name": "Wood",
+      "make": "Mazda",
+      "model": "Mazda6",
+      "vin": "JN1CV6EK2FM281413",
+      "year": 2006,
+      "isSelected": false,
+      "image": "http://dummyimage.com/195x102.bmp/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 23,
+    "car": {
+      "name": "Anson",
+      "make": "Suzuki",
+      "model": "SX4",
+      "vin": "KNALW4D49F6411934",
+      "year": 2007,
+      "isSelected": false,
+      "image": "http://dummyimage.com/126x206.jpg/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 24,
+    "car": {
+      "name": "Christoph",
+      "make": "Saab",
+      "model": "9-5",
+      "vin": "1FTMF1EW8AK770761",
+      "year": 2005,
+      "isSelected": false,
+      "image": "http://dummyimage.com/137x227.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 25,
+    "car": {
+      "name": "Becki",
+      "make": "Volvo",
+      "model": "V70",
+      "vin": "JN1AV7AR1FM791932",
+      "year": 2003,
+      "isSelected": true,
+      "image": "http://dummyimage.com/236x153.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 26,
+    "car": {
+      "name": "Hendrika",
+      "make": "Mercury",
+      "model": "Lynx",
+      "vin": "JHMFA3F29AS967468",
+      "year": 1985,
+      "isSelected": false,
+      "image": "http://dummyimage.com/196x101.jpg/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 27,
+    "car": {
+      "name": "Rollie",
+      "make": "Porsche",
+      "model": "Boxster",
+      "vin": "WA1VGAFP8EA544320",
+      "year": 1999,
+      "isSelected": false,
+      "image": "http://dummyimage.com/151x208.jpg/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 28,
+    "car": {
+      "name": "Gillian",
+      "make": "Mazda",
+      "model": "MX-5",
+      "vin": "3D7JV1EP9AG877445",
+      "year": 2011,
+      "isSelected": true,
+      "image": "http://dummyimage.com/155x117.bmp/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 29,
+    "car": {
+      "name": "Kaleb",
+      "make": "Pontiac",
+      "model": "GTO",
+      "vin": "1G6AJ5SX5D0313630",
+      "year": 1971,
+      "isSelected": true,
+      "image": "http://dummyimage.com/234x190.jpg/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 30,
+    "car": {
+      "name": "Padraic",
+      "make": "Toyota",
+      "model": "Solara",
+      "vin": "1N6AA0CJ4DN400140",
+      "year": 2001,
+      "isSelected": true,
+      "image": "http://dummyimage.com/241x220.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 31,
+    "car": {
+      "name": "Bertrando",
+      "make": "Ford",
+      "model": "Expedition",
+      "vin": "JHMZF1D44DS557222",
+      "year": 2006,
+      "isSelected": false,
+      "image": "http://dummyimage.com/189x200.bmp/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 32,
+    "car": {
+      "name": "Naoma",
+      "make": "Mazda",
+      "model": "MPV",
+      "vin": "KMHTC6ADXDU422232",
+      "year": 2002,
+      "isSelected": true,
+      "image": "http://dummyimage.com/216x151.png/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 33,
+    "car": {
+      "name": "Annamarie",
+      "make": "Audi",
+      "model": "5000S",
+      "vin": "WAUDG78E26A257926",
+      "year": 1988,
+      "isSelected": false,
+      "image": "http://dummyimage.com/113x215.bmp/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 34,
+    "car": {
+      "name": "Philis",
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "vin": "WA1YD54B62N762779",
+      "year": 2000,
+      "isSelected": true,
+      "image": "http://dummyimage.com/249x108.jpg/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 35,
+    "car": {
+      "name": "Emerson",
+      "make": "Ford",
+      "model": "Explorer Sport Trac",
+      "vin": "1G4GH5G31DF021068",
+      "year": 2007,
+      "isSelected": true,
+      "image": "http://dummyimage.com/206x167.jpg/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 36,
+    "car": {
+      "name": "Udell",
+      "make": "Kia",
+      "model": "Rio",
+      "vin": "WBAWV1C56AP062436",
+      "year": 2012,
+      "isSelected": true,
+      "image": "http://dummyimage.com/122x153.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 37,
+    "car": {
+      "name": "Fran",
+      "make": "Plymouth",
+      "model": "Breeze",
+      "vin": "WDDEJ7GB4BA675193",
+      "year": 2000,
+      "isSelected": false,
+      "image": "http://dummyimage.com/111x188.png/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 38,
+    "car": {
+      "name": "Gottfried",
+      "make": "Hummer",
+      "model": "H1",
+      "vin": "5TDDCRFH3FS795741",
+      "year": 1994,
+      "isSelected": true,
+      "image": "http://dummyimage.com/236x246.png/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 39,
+    "car": {
+      "name": "Ive",
+      "make": "Pontiac",
+      "model": "Solstice",
+      "vin": "1YVHZ8BH3B5728583",
+      "year": 2009,
+      "isSelected": true,
+      "image": "http://dummyimage.com/219x156.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 40,
+    "car": {
+      "name": "Bamby",
+      "make": "Chevrolet",
+      "model": "Suburban 2500",
+      "vin": "SAJWA0ES1EP522251",
+      "year": 2000,
+      "isSelected": false,
+      "image": "http://dummyimage.com/125x117.jpg/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 41,
+    "car": {
+      "name": "Mike",
+      "make": "Volkswagen",
+      "model": "GTI",
+      "vin": "WBA3B3C52DF060300",
+      "year": 2003,
+      "isSelected": true,
+      "image": "http://dummyimage.com/169x184.jpg/cc0000/ffffff"
+    }
+  },
+  {
+    "uuid": 42,
+    "car": {
+      "name": "Conan",
+      "make": "Dodge",
+      "model": "Sprinter",
+      "vin": "WA1WMBFE5BD264754",
+      "year": 2006,
+      "isSelected": false,
+      "image": "http://dummyimage.com/144x114.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 43,
+    "car": {
+      "name": "Sabrina",
+      "make": "GMC",
+      "model": "Vandura G1500",
+      "vin": "WAUFFBFL9BN475879",
+      "year": 1995,
+      "isSelected": false,
+      "image": "http://dummyimage.com/226x245.jpg/ff4444/ffffff"
+    }
+  },
+  {
+    "uuid": 44,
+    "car": {
+      "name": "Marthe",
+      "make": "Pontiac",
+      "model": "GTO",
+      "vin": "2G4GN5EK6C9380524",
+      "year": 1970,
+      "isSelected": true,
+      "image": "http://dummyimage.com/203x185.bmp/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 45,
+    "car": {
+      "name": "Orelia",
+      "make": "Mazda",
+      "model": "Mazda6 5-Door",
+      "vin": "5UXFB93552L883769",
+      "year": 2006,
+      "isSelected": false,
+      "image": "http://dummyimage.com/229x237.png/dddddd/000000"
+    }
+  },
+  {
+    "uuid": 46,
+    "car": {
+      "name": "Sylvan",
+      "make": "Mazda",
+      "model": "Tribute",
+      "vin": "3D7JV1EP3AG133002",
+      "year": 2010,
+      "isSelected": false,
+      "image": "http://dummyimage.com/115x146.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 47,
+    "car": {
+      "name": "Clarinda",
+      "make": "Ford",
+      "model": "Bronco",
+      "vin": "2T1BPRHE8FC159436",
+      "year": 1984,
+      "isSelected": true,
+      "image": "http://dummyimage.com/205x228.jpg/ff4444/ffffff"
+    }
+  },
+  {
+    "uuid": 48,
+    "car": {
+      "name": "Marius",
+      "make": "Toyota",
+      "model": "Solara",
+      "vin": "JTDKDTB3XF1502202",
+      "year": 1999,
+      "isSelected": false,
+      "image": "http://dummyimage.com/130x171.bmp/ff4444/ffffff"
+    }
+  },
+  {
+    "uuid": 49,
+    "car": {
+      "name": "Gwendolen",
+      "make": "Mercury",
+      "model": "Grand Marquis",
+      "vin": "1GD120EG4BF490667",
+      "year": 1996,
+      "isSelected": true,
+      "image": "http://dummyimage.com/102x216.png/5fa2dd/ffffff"
+    }
+  },
+  {
+    "uuid": 50,
+    "car": {
+      "name": "Gwynne",
+      "make": "Mercedes-Benz",
+      "model": "CLK-Class",
+      "vin": "2T1BURHE6FC027753",
+      "year": 2005,
+      "isSelected": false,
+      "image": "http://dummyimage.com/103x151.png/ff4444/ffffff"
+    }
+  }
+]
