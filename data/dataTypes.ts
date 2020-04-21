@@ -1,8 +1,10 @@
+import { AnimalColumns, UserStocksColumns, CarsColumns } from "./types/Columns";
+
 export const ANIMALS = "animals";
 export const USER_STOCKS = "userStocks";
 export const CARS = "cars";
 
-export const animalColumns = {
+export const animalColumns: AnimalColumns = {
   uuid: {
     columnName: "uuid",
     parent: undefined,
@@ -45,7 +47,7 @@ export const animalColumns = {
   },
 };
 
-export const userStocksColumns = {
+export const userStocksColumns: UserStocksColumns = {
   uuid: {
     columnName: "uuid",
     parent: undefined,
@@ -108,10 +110,11 @@ export const userStocksColumns = {
   },
 };
 
-export const carsColumns = {
+export const carsColumns: CarsColumns = {
   uuid: {
     columnName: "uuid",
     parent: undefined,
+    isEditable: false,
   },
   name: {
     columnName: "Name",

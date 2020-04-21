@@ -16,63 +16,63 @@
         "type": "Spoonbill, european",
         "id": "ef56e200-7006-4a3e-9912-f32deac50e32",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "aef66c5e-82eb-409f-91d8-aa0a77fac13e"
+        "isSelected": false
       },
       {
         "name": "Sophronia",
         "type": "Sungazer, yellow-brown",
         "id": "e45ea071-fd60-4dd5-ad63-b14fc25fbbee",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "9015a493-5def-46ba-b040-19b07d26c9d3"
+        "isSelected": false
       },
       {
         "name": "Berrie",
         "type": "Buffalo, african",
         "id": "25defe6a-a348-46b6-9d27-91910bbd3497",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "7c49b98f-fab8-4399-975d-23c01e7f0a62"
+        "isSelected": false
       },
       {
         "name": "Celestina",
         "type": "Egret, snowy",
         "id": "a5d7abe3-8f19-4324-a401-932c4b7a45fa",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "3d291128-28c9-486c-931b-1fe7795fda69"
+        "isSelected": false
       },
       {
         "name": "Stanislaw",
         "type": "Python, carpet",
         "id": "0cede816-abbe-4c12-b7b1-0d0566fbb0b1",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "ea9baa49-c31f-4fac-b21d-d6240234f4b8"
+        "isSelected": true
       },
       {
         "name": "Brigitte",
         "type": "Greater roadrunner",
         "id": "12984591-8e02-40cf-ac7c-792ed99dea2c",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "19e93d63-f0dc-436e-9864-a5acbe1ee89a"
+        "isSelected": true
       },
       {
         "name": "Cherilyn",
         "type": "Western pygmy possum",
         "id": "f9e2b2f3-f1c1-4c4f-93d2-d3858b9066b1",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "4e5bd8d3-a680-428b-9b49-80db74c66a64"
+        "isSelected": false
       },
       {
         "name": "Galen",
         "type": "Arctic tern",
         "id": "ec5ad523-8e01-4f72-8313-9dfed1590a79",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "e7a6fd00-f123-440d-a857-8a393aa45ea6"
+        "isSelected": true
       },
       {
         "name": "Henrietta",
         "type": "Marmot, hoary",
         "id": "0de223ff-0247-4a36-87d7-cf7908b283d1",
         "parentId": "3ad7fe10-1343-4349-9646-932a24954ac5",
-        "isSelected": "2eb45a08-2a26-46b1-a4b1-2ede27284396"
+        "isSelected": true
       }
     ]
   },
@@ -93,91 +93,91 @@
         "type": "Cat, tiger",
         "id": "c0dc959b-3deb-4c70-bd4d-752dd4c98454",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "34768ffa-2c70-4488-becc-f07dae6ed952"
+        "isSelected": false
       },
       {
         "name": "Marjorie",
         "type": "Yellow-billed stork",
         "id": "e35c83f8-8fb2-495e-a3b6-1141cfaefd05",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "78b72c3d-0466-41c2-a359-57222af66301"
+        "isSelected": false
       },
       {
         "name": "Celeste",
         "type": "Tortoise, asian foreset",
         "id": "2b9ec407-01fd-479b-9475-cb9a415d87fe",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "3a4fed42-12d4-4e3d-9aee-c4e408262dc6"
+        "isSelected": false
       },
       {
         "name": "Kerwin",
         "type": "Prehensile-tailed porcupine",
         "id": "65a4648b-2bce-4e7f-a741-ac09bda3b800",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "6d8044af-c37d-4f3e-a0c6-e3ea8405aa13"
+        "isSelected": true
       },
       {
         "name": "Chariot",
         "type": "Red howler monkey",
         "id": "92fe0bc2-e242-4258-a479-a08f92e6e59a",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "298a16c5-9b0c-42c5-b0c0-7d967b129e10"
+        "isSelected": true
       },
       {
         "name": "Sarah",
         "type": "Lion, steller sea",
         "id": "09053151-6cb2-4ff4-b699-4d143b1d661e",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "dab7b197-5d62-4f99-9e7a-fa777c77e3ae"
+        "isSelected": false
       },
       {
         "name": "Christin",
         "type": "Fox, pampa gray",
         "id": "0e777365-844c-4f03-93d9-b5b6576d9131",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "95d32ed2-00b7-4667-9b51-84731cbde123"
+        "isSelected": false
       },
       {
         "name": "Eduard",
         "type": "Egret, snowy",
         "id": "aa778dd6-5bbd-44a0-aa90-893a107f92ce",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "df8419b0-7685-47b1-8c40-057531851758"
+        "isSelected": false
       },
       {
         "name": "Peggie",
         "type": "Kangaroo, red",
         "id": "e5aab87a-1ae2-4549-9124-278bd9571d03",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "25753213-d8f3-48fb-9b95-08602c0cb723"
+        "isSelected": false
       },
       {
         "name": "Babara",
         "type": "Dragon, asian water",
         "id": "ae180803-1d4d-4089-a21d-f1de0607aef7",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "e8aa994d-b1c2-44cf-9f61-871899dbdfa4"
+        "isSelected": false
       },
       {
         "name": "Dyan",
         "type": "Godwit, hudsonian",
         "id": "df7c9b6f-09c3-45de-9bbe-0108737e629f",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "3a7c1003-78d0-4820-8472-4943953091f1"
+        "isSelected": false
       },
       {
         "name": "Dreddy",
         "type": "Partridge, coqui",
         "id": "b4c6dfd6-1fc8-44ad-95c3-1c329332f847",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "b30790f2-f78d-4677-8d8a-07f103a53967"
+        "isSelected": false
       },
       {
         "name": "Damien",
         "type": "Penguin, magellanic",
         "id": "e2e84474-2f04-4e94-a38d-184156f48688",
         "parentId": "0e0adeae-aec6-4c52-bae6-cccb2d33ae81",
-        "isSelected": "ab9a9c27-eedd-441d-8edf-ea85d6c4dd6d"
+        "isSelected": false
       }
     ]
   },
@@ -198,105 +198,105 @@
         "type": "Comb duck",
         "id": "29cd1aee-a3c9-43e9-9734-763cc77aec48",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "3629eeef-b9dd-42a1-85f8-0637226b5d60"
+        "isSelected": false
       },
       {
         "name": "Cletus",
         "type": "Eastern fox squirrel",
         "id": "aa591310-101b-4dec-8696-083e5e9876a5",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "defb7b47-c360-4fa4-8994-f332a691d56a"
+        "isSelected": false
       },
       {
         "name": "Garvey",
         "type": "King vulture",
         "id": "197e9679-4ca2-4faa-ae52-45ab1cd94911",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "f1e2f0c0-5dde-4c34-8cb0-328b7b92487d"
+        "isSelected": false
       },
       {
         "name": "Alix",
         "type": "Frilled lizard",
         "id": "315120b7-e15e-4e45-b60d-8d9af79d41e5",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "bde86f7f-ca58-4158-8139-be95ffa79029"
+        "isSelected": false
       },
       {
         "name": "Selinda",
         "type": "Pie, indian tree",
         "id": "2a3f1200-8c27-471e-ae35-9cb3cdb7105b",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "3351f227-2675-4dfb-82fc-0fbc032de794"
+        "isSelected": false
       },
       {
         "name": "Eleanore",
         "type": "Bandicoot, long-nosed",
         "id": "25dc9cab-ee11-4565-9254-0df1c2df081d",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "c83a2bbc-7a33-4cd2-9ee0-b58bebc7882f"
+        "isSelected": false
       },
       {
         "name": "Melitta",
         "type": "Indian giant squirrel",
         "id": "ae360775-0187-4c68-8e95-d60b977f33b9",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "f41c7fe7-4e71-46ff-bc25-3ac8addb2c23"
+        "isSelected": false
       },
       {
         "name": "Lulita",
         "type": "Kingfisher, malachite",
         "id": "b220c234-191c-48be-bba5-f8ad7116b22d",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "cb18ec46-419e-4597-aa14-ea74de72a1ca"
+        "isSelected": false
       },
       {
         "name": "Emanuele",
         "type": "Caiman, spectacled",
         "id": "2fb2570b-d46b-4017-a88f-96737a2673ad",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "96ff9cd0-6dfb-41e4-8dbb-014e060574f2"
+        "isSelected": false
       },
       {
         "name": "Ellen",
         "type": "Bird, secretary",
         "id": "7e92cc2d-d7fb-4a3e-9bf3-9fd286c69dd6",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "df29c447-7880-4702-a8b2-db9248742b27"
+        "isSelected": false
       },
       {
         "name": "Flore",
         "type": "Blue-tongued skink",
         "id": "02625741-855d-4fcd-a202-3ff5bc2b91a1",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "5d3b34b4-2253-44ff-a9fc-578f2782b890"
+        "isSelected": false
       },
       {
         "name": "Margaretha",
         "type": "Brush-tailed phascogale",
         "id": "90512548-0b97-4f50-a8e8-e4eb6a645200",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "d550c028-e936-4ba7-ad83-dd86c4ea2eee"
+        "isSelected": false
       },
       {
         "name": "Amelia",
         "type": "Common melba finch",
         "id": "5350c91a-8c0e-4641-9f20-2334e2b8e30d",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "ab5e825a-3462-41cc-8bdb-7aad2439f552"
+        "isSelected": false
       },
       {
         "name": "Virgina",
         "type": "Carmine bee-eater",
         "id": "af4766a8-4e49-4417-8e1c-8be0ae3ab570",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "c1a42905-362d-4bd8-ba46-bc3de19a9197"
+        "isSelected": false
       },
       {
         "name": "Pennie",
         "type": "Bleu, blue-breasted cordon",
         "id": "7f5c8753-fcd2-44e5-86e2-9e6ece2a5c76",
         "parentId": "7e4cb184-0375-4db5-812a-0f7a76bbd17f",
-        "isSelected": "e3dfce65-bbb5-4855-8afa-6b871aa15b71"
+        "isSelected": false
       }
     ]
   },
@@ -317,21 +317,21 @@
         "type": "Wild boar",
         "id": "2264523c-7525-4f67-95eb-48cde0682aa0",
         "parentId": "c95704af-633a-4d70-acd9-ec08f818e21a",
-        "isSelected": "c6bb4946-80e0-47bb-84df-7822f2ce716a"
+        "isSelected": false
       },
       {
         "name": "Clovis",
         "type": "Gecko, barking",
         "id": "7e1d80d4-a4c1-4eb9-bc00-86a00d2c8552",
         "parentId": "c95704af-633a-4d70-acd9-ec08f818e21a",
-        "isSelected": "0a07bd17-97d3-4117-8d64-b7265f384840"
+        "isSelected": false
       },
       {
         "name": "Gwyn",
         "type": "Kangaroo, red",
         "id": "1de91c0b-23a4-49f3-a999-86d6518bc5d7",
         "parentId": "c95704af-633a-4d70-acd9-ec08f818e21a",
-        "isSelected": "efc926ec-15d4-4043-8737-40aa4a1ecf5d"
+        "isSelected": false
       }
     ]
   },
@@ -352,70 +352,70 @@
         "type": "Egyptian goose",
         "id": "432ce15d-b9a3-49af-bb65-dee8f2b66414",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "710ccda4-cf67-4801-89a0-7571d8b7b149"
+        "isSelected": false
       },
       {
         "name": "Joete",
         "type": "Small-toothed palm civet",
         "id": "84a0fdd1-8cfa-4048-8e06-c48a534096ed",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "26fe2da8-c5f6-4a4e-ac14-6b43580ae780"
+        "isSelected": false
       },
       {
         "name": "Michel",
         "type": "Chital",
         "id": "3388333a-8fa6-43c5-aa2d-4ed045c77090",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "dbd55c71-c57c-454f-8fbc-3040cb1cddc5"
+        "isSelected": false
       },
       {
         "name": "Othello",
         "type": "Yellow baboon",
         "id": "8204a3a0-5bcc-4b13-bdd0-f7147af33591",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "988bf7f6-7894-4523-87c8-0932fa2e40a2"
+        "isSelected": false
       },
       {
         "name": "Rosy",
         "type": "Chameleon (unidentified)",
         "id": "65a093cc-f133-4e30-bd4f-78638f7751ec",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "11542011-5104-4602-a289-a77a12103870"
+        "isSelected": false
       },
       {
         "name": "Kim",
         "type": "Tyrant flycatcher",
         "id": "8e581ba3-9aa6-4543-9560-1e26a482a5ae",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "eb04d050-661e-4ff1-9d2a-3c09712e3abb"
+        "isSelected": false
       },
       {
         "name": "Ivar",
         "type": "Ferruginous hawk",
         "id": "db107728-7366-4711-a0c5-0b994d0ca066",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "4e94d461-cc59-4d2f-a630-af972c1afa97"
+        "isSelected": false
       },
       {
         "name": "Gerrie",
         "type": "Desert tortoise",
         "id": "83e1ae6c-1fc1-4a3a-bfc9-67d11a882314",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "f8110190-5c74-4c35-a34c-efc36ca242bc"
+        "isSelected": false
       },
       {
         "name": "Shadow",
         "type": "Dark-winged trumpeter",
         "id": "c2736d16-bf13-41a6-8523-d84b60d1e642",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "bde8a5f5-7c74-4990-95dc-5927b9518212"
+        "isSelected": false
       },
       {
         "name": "Eberto",
         "type": "Grant's gazelle",
         "id": "6af6a3c1-1a3a-4212-b717-40444ab8476a",
         "parentId": "557e7f42-e0bc-4fbb-b285-838a593146e8",
-        "isSelected": "f0d7cc8d-a55a-4d32-8754-f6fa41f08929"
+        "isSelected": false
       }
     ]
   },
@@ -436,77 +436,77 @@
         "type": "Stork, yellow-billed",
         "id": "17b42b06-a383-49d0-822e-027c86a47f01",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "ada03689-612d-4df9-b14f-e0b61665a878"
+        "isSelected": false
       },
       {
         "name": "Chick",
         "type": "Rufous-collared sparrow",
         "id": "7120f29f-1b59-45f0-aba3-7d10448417bf",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "c841d2c9-ea20-4f3c-9881-372927f14d8b"
+        "isSelected": false
       },
       {
         "name": "Rhianna",
         "type": "Black-fronted bulbul",
         "id": "878e9269-0660-4eab-bb5a-a3df80cc8cb8",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "26235c08-f5bf-4ad6-bd7b-d289cd151d83"
+        "isSelected": false
       },
       {
         "name": "Ozzy",
         "type": "Dog, raccoon",
         "id": "70e9afdb-55fa-47b3-969f-89b60ca8f3f0",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "20389cf4-cfef-4c2f-83ef-dee041fa71ae"
+        "isSelected": false
       },
       {
         "name": "Arel",
         "type": "Hyena, striped",
         "id": "4e69bd22-da4f-45d7-a3fc-74e728a19c4e",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "bfc5ebea-1963-47e1-b587-f4909afe6003"
+        "isSelected": false
       },
       {
         "name": "Ilysa",
         "type": "Common melba finch",
         "id": "dd1c68c9-72fe-4b21-a587-1d6ff65b875e",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "55178cd7-44bc-4b07-a829-4b94e9a0d192"
+        "isSelected": false
       },
       {
         "name": "Corilla",
         "type": "Beaver, european",
         "id": "e0154508-ba11-47d7-9ac1-60d1e7d13140",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "81d6dfc6-34b1-4bd0-9804-7e377e4f1689"
+        "isSelected": false
       },
       {
         "name": "Tory",
         "type": "Duiker, common",
         "id": "1c7faf5b-1820-4cb0-a976-d96f7cc728da",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "23e3e332-aeee-4e67-963b-a2a52410d61a"
+        "isSelected": false
       },
       {
         "name": "Kale",
         "type": "Northern elephant seal",
         "id": "990bd845-b33e-408b-b8d4-13b06fedf632",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "5b35aeb3-6736-4e27-a576-7a648bbb827c"
+        "isSelected": false
       },
       {
         "name": "Ada",
         "type": "Ovenbird",
         "id": "7a73c667-392f-4930-bea1-ea3cea44c4fc",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "9d58d5c9-1e24-4a13-a362-81614512c167"
+        "isSelected": false
       },
       {
         "name": "Stanley",
         "type": "Cormorant, neotropic",
         "id": "147d5d82-a39a-49ae-a3b1-6a561c68d329",
         "parentId": "1c0de847-08bd-4f1d-9b30-63e6d8167342",
-        "isSelected": "7f616e9a-36a1-4e5a-b96f-8e032653bc88"
+        "isSelected": false
       }
     ]
   },
@@ -527,84 +527,84 @@
         "type": "Chimpanzee",
         "id": "147b32d7-6224-4e7a-bf3b-d2bb6a3d3820",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "755d49be-3a00-4904-88ac-0b20ec66c487"
+        "isSelected": false
       },
       {
         "name": "Chariot",
         "type": "Southern sea lion",
         "id": "dffc622e-7ba0-492e-829b-afec7d475b7b",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "a5b15b7c-9552-476f-ae8f-55c41f3ac476"
+        "isSelected": false
       },
       {
         "name": "Farr",
         "type": "Red-billed tropic bird",
         "id": "8d3f5017-af6a-46db-8cf0-939cd71c4060",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "7a972e03-60cb-4e9c-9666-f383f2bcd85c"
+        "isSelected": false
       },
       {
         "name": "Phillie",
         "type": "Jabiru stork",
         "id": "628c731e-6c87-45e5-9ec9-ddbfa87affc6",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "37f55c7a-40c1-4e8d-94a8-900b07216309"
+        "isSelected": false
       },
       {
         "name": "Coral",
         "type": "Wallaby, river",
         "id": "13835f82-f0f8-4ea8-adc5-3c194cf8d0c5",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "98b1298e-d86f-44df-80bb-eed2a4777b6a"
+        "isSelected": false
       },
       {
         "name": "Delbert",
         "type": "Common brushtail possum",
         "id": "a689f0af-33ac-4a79-bf9a-add7b7b5c738",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "daec34f1-85f9-409c-8fef-3323a0f8a9a6"
+        "isSelected": false
       },
       {
         "name": "Lane",
         "type": "Whale, long-finned pilot",
         "id": "06928c68-a26d-46f9-8827-b483473921ca",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "e7436c27-e5ad-4ff3-825f-34c226df61b6"
+        "isSelected": false
       },
       {
         "name": "Emalia",
         "type": "Common nighthawk",
         "id": "1227b15c-154b-4c91-8147-bf0a3201550a",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "f26540c3-5fe8-4b7a-abf6-4a0eb4ff09ba"
+        "isSelected": false
       },
       {
         "name": "Rory",
         "type": "American badger",
         "id": "42f33ec9-3914-4476-84e6-7804747698ee",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "d790562c-471e-43fc-b498-5421953e07a4"
+        "isSelected": false
       },
       {
         "name": "Katrina",
         "type": "Yellow-throated sandgrouse",
         "id": "f2f95f3a-512d-41e0-847f-108c589840fb",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "1393474e-c9ad-4132-b17b-88f6302d3858"
+        "isSelected": false
       },
       {
         "name": "Shelton",
         "type": "Rat, desert kangaroo",
         "id": "8f2e3f18-dfea-4ec0-89a2-6b672f33a245",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "68d350d0-2014-474d-aab7-c8070f2ce42c"
+        "isSelected": false
       },
       {
         "name": "Willamina",
         "type": "Urial",
         "id": "767e5894-bfc6-454f-b2de-fbabe19ae27a",
         "parentId": "a9aa6c0d-68be-4057-9b2e-81d597fd2d79",
-        "isSelected": "c7bfd77c-a024-4258-b6ef-1d3d44a963fc"
+        "isSelected": false
       }
     ]
   },
@@ -625,56 +625,56 @@
         "type": "Phascogale, brush-tailed",
         "id": "a2bcffea-e9ce-4622-b78d-09c8c5a3cc6a",
         "parentId": "a05770f6-13f9-4650-beec-d58aba881f58",
-        "isSelected": "7dc8cffe-baa6-4a2c-908c-f4be1566ddfa"
+        "isSelected": false
       },
       {
         "name": "Bambi",
         "type": "Monitor lizard (unidentified)",
         "id": "a2926e5d-c7dc-40b1-aa26-526e1d67da2f",
         "parentId": "a05770f6-13f9-4650-beec-d58aba881f58",
-        "isSelected": "62046e9a-b967-4eb1-b8c1-1aa4e6382555"
+        "isSelected": false
       },
       {
         "name": "Nalani",
         "type": "Spur-winged goose",
         "id": "40d075d2-5eaf-42ac-85aa-ac60e9df8c37",
         "parentId": "a05770f6-13f9-4650-beec-d58aba881f58",
-        "isSelected": "b6e00a15-c150-433f-8e35-039b39c40835"
+        "isSelected": false
       },
       {
         "name": "Raymond",
         "type": "Hornbill, leadbeateri's ground",
         "id": "7635f2eb-21df-43e0-85a8-69f4818caa42",
         "parentId": "a05770f6-13f9-4650-beec-d58aba881f58",
-        "isSelected": "b58120b2-bbd3-48f6-83f6-8cb9b10fdf14"
+        "isSelected": false
       },
       {
         "name": "Kimmi",
         "type": "Goose, cape barren",
         "id": "14fb1acc-b0b7-4488-8ed8-1942e18fb661",
         "parentId": "a05770f6-13f9-4650-beec-d58aba881f58",
-        "isSelected": "1698b859-7e29-4f66-bdb3-8f433d1cb732"
+        "isSelected": false
       },
       {
         "name": "Pauly",
         "type": "Red-billed buffalo weaver",
         "id": "b0707ca2-f120-4ef0-ba9c-0b9bfeae637c",
         "parentId": "a05770f6-13f9-4650-beec-d58aba881f58",
-        "isSelected": "de8e467a-4a13-4122-bc02-9901efcde482"
+        "isSelected": false
       },
       {
         "name": "Liane",
         "type": "Macaw, scarlet",
         "id": "ca83a0a8-b086-4777-a611-7e968f653fb9",
         "parentId": "a05770f6-13f9-4650-beec-d58aba881f58",
-        "isSelected": "0e5831a7-a08a-41a6-8577-44fd422acea4"
+        "isSelected": false
       },
       {
         "name": "Billye",
         "type": "Butterfly, tropical buckeye",
         "id": "0f2c18af-8e33-4754-b44a-3da1a7824f07",
         "parentId": "a05770f6-13f9-4650-beec-d58aba881f58",
-        "isSelected": "be6138af-9aec-4934-8e0e-81e42bc33a5a"
+        "isSelected": false
       }
     ]
   },
@@ -695,14 +695,14 @@
         "type": "Bontebok",
         "id": "f6e33d61-1781-4784-b956-3c48570495f7",
         "parentId": "5ebecec4-a911-449a-bbd9-4e9e2b83f976",
-        "isSelected": "35c1cbac-0559-43f1-b7ee-501fe4c4e998"
+        "isSelected": false
       },
       {
         "name": "Berti",
         "type": "Lapwing, southern",
         "id": "0a30c46c-cee8-4075-981c-23b6d6ed00a4",
         "parentId": "5ebecec4-a911-449a-bbd9-4e9e2b83f976",
-        "isSelected": "22cfc806-c699-46bb-97ba-20a9c38dacd3"
+        "isSelected": false
       }
     ]
   },
@@ -723,35 +723,35 @@
         "type": "Squirrel, thirteen-lined",
         "id": "304e0f22-8257-4375-84cd-552a36157f5f",
         "parentId": "061cf791-d646-48f2-9146-20efaade69cb",
-        "isSelected": "9b528bd3-06ef-4a81-a3e9-e68434f47d49"
+        "isSelected": false
       },
       {
         "name": "Gabriella",
         "type": "European red squirrel",
         "id": "a52c1f6a-93d6-4f93-997d-34cf9c352616",
         "parentId": "061cf791-d646-48f2-9146-20efaade69cb",
-        "isSelected": "b60007d7-8e07-495d-a937-137b434a0df7"
+        "isSelected": false
       },
       {
         "name": "Tarrance",
         "type": "Uinta ground squirrel",
         "id": "436267ff-10c7-4d26-9b58-96fa73145a82",
         "parentId": "061cf791-d646-48f2-9146-20efaade69cb",
-        "isSelected": "e7a96bab-9df4-4984-9ad8-a76eb1777a22"
+        "isSelected": false
       },
       {
         "name": "Claire",
         "type": "Turkey vulture",
         "id": "5888f31d-4854-4add-a256-0139ae2d638a",
         "parentId": "061cf791-d646-48f2-9146-20efaade69cb",
-        "isSelected": "99bd1ab0-19e8-45e4-8243-72bcdf7dca69"
+        "isSelected": false
       },
       {
         "name": "Merlina",
         "type": "Gelada baboon",
         "id": "3b3eb18c-da6e-4fb4-a4a2-d6c98a8dee0d",
         "parentId": "061cf791-d646-48f2-9146-20efaade69cb",
-        "isSelected": "cc39b758-7777-466e-a217-8f77cb97f1f9"
+        "isSelected": false
       }
     ]
   }

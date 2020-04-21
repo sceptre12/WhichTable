@@ -10,7 +10,7 @@
       "ticker": "ALL^F",
       "name": "Allstate Corporation (The)",
       "marketCap": "n/a",
-      "price": "$25.94",
+      "price": "25.94",
       "isOwned": false,
       "isWatching": true
     }
@@ -25,8 +25,8 @@
     "stock": {
       "ticker": "JHX",
       "name": "James Hardie Industries plc.",
-      "marketCap": "$6.77B",
-      "price": "$46.30",
+      "marketCap": "6.77B",
+      "price": "46.30",
       "isOwned": false,
       "isWatching": true
     }
@@ -42,7 +42,7 @@
       "ticker": "DTQ",
       "name": "DTE Energy Company",
       "marketCap": "n/a",
-      "price": "$63.23",
+      "price": "63.23",
       "isOwned": true,
       "isWatching": true
     }
@@ -57,8 +57,8 @@
     "stock": {
       "ticker": "GWW",
       "name": "W.W. Grainger, Inc.",
-      "marketCap": "$10.53B",
-      "price": "$110.04",
+      "marketCap": "10.53B",
+      "price": "110.04",
       "isOwned": true,
       "isWatching": false
     }
@@ -73,8 +73,8 @@
     "stock": {
       "ticker": "GENE",
       "name": "Genetic Technologies Ltd",
-      "marketCap": "$12.31M",
-      "price": "$87.79",
+      "marketCap": "12.31M",
+      "price": "87.79",
       "isOwned": true,
       "isWatching": false
     }
@@ -89,8 +89,8 @@
     "stock": {
       "ticker": "TKC",
       "name": "Turkcell Iletisim Hizmetleri AS",
-      "marketCap": "$7.2B",
-      "price": "$118.08",
+      "marketCap": "7.2B",
+      "price": "118.08",
       "isOwned": true,
       "isWatching": false
     }
@@ -105,8 +105,8 @@
     "stock": {
       "ticker": "AJX",
       "name": "Great Ajax Corp.",
-      "marketCap": "$273.46M",
-      "price": "$46.68",
+      "marketCap": "273.46M",
+      "price": "46.68",
       "isOwned": true,
       "isWatching": false
     }
@@ -121,8 +121,8 @@
     "stock": {
       "ticker": "CSWI",
       "name": "CSW Industrials, Inc.",
-      "marketCap": "$589.55M",
-      "price": "$54.15",
+      "marketCap": "589.55M",
+      "price": "54.15",
       "isOwned": true,
       "isWatching": true
     }
@@ -137,8 +137,8 @@
     "stock": {
       "ticker": "PHD",
       "name": "Pioneer Floating Rate Trust",
-      "marketCap": "$293.39M",
-      "price": "$109.23",
+      "marketCap": "293.39M",
+      "price": "109.23",
       "isOwned": false,
       "isWatching": true
     }
@@ -153,8 +153,8 @@
     "stock": {
       "ticker": "DLB",
       "name": "Dolby Laboratories",
-      "marketCap": "$5.04B",
-      "price": "$2.85",
+      "marketCap": "5.04B",
+      "price": "2.85",
       "isOwned": false,
       "isWatching": false
     }
@@ -169,8 +169,8 @@
     "stock": {
       "ticker": "TRNS",
       "name": "Transcat, Inc.",
-      "marketCap": "$84.17M",
-      "price": "$38.38",
+      "marketCap": "84.17M",
+      "price": "38.38",
       "isOwned": true,
       "isWatching": true
     }
@@ -185,8 +185,8 @@
     "stock": {
       "ticker": "GFN",
       "name": "General Finance Corporation",
-      "marketCap": "$125.85M",
-      "price": "$21.57",
+      "marketCap": "125.85M",
+      "price": "21.57",
       "isOwned": true,
       "isWatching": false
     }
@@ -201,8 +201,8 @@
     "stock": {
       "ticker": "NETS",
       "name": "Netshoes (Cayman) Limited",
-      "marketCap": "$588.87M",
-      "price": "$83.04",
+      "marketCap": "588.87M",
+      "price": "83.04",
       "isOwned": false,
       "isWatching": true
     }
@@ -217,8 +217,8 @@
     "stock": {
       "ticker": "MTU",
       "name": "Mitsubishi UFJ Financial Group Inc",
-      "marketCap": "$87.97B",
-      "price": "$101.97",
+      "marketCap": "87.97B",
+      "price": "101.97",
       "isOwned": true,
       "isWatching": false
     }
@@ -233,8 +233,8 @@
     "stock": {
       "ticker": "RMTI",
       "name": "Rockwell Medical, Inc.",
-      "marketCap": "$405.53M",
-      "price": "$90.43",
+      "marketCap": "405.53M",
+      "price": "90.43",
       "isOwned": true,
       "isWatching": false
     }
@@ -249,8 +249,8 @@
     "stock": {
       "ticker": "CRDT",
       "name": "WisdomTree Strategic Corporate Bond Fund",
-      "marketCap": "$7.84M",
-      "price": "$60.39",
+      "marketCap": "7.84M",
+      "price": "60.39",
       "isOwned": false,
       "isWatching": false
     }
@@ -265,8 +265,8 @@
     "stock": {
       "ticker": "PODD",
       "name": "Insulet Corporation",
-      "marketCap": "$2.71B",
-      "price": "$68.59",
+      "marketCap": "2.71B",
+      "price": "68.59",
       "isOwned": false,
       "isWatching": false
     }
@@ -281,8 +281,8 @@
     "stock": {
       "ticker": "AVAV",
       "name": "AeroVironment, Inc.",
-      "marketCap": "$727.12M",
-      "price": "$86.08",
+      "marketCap": "727.12M",
+      "price": "86.08",
       "isOwned": true,
       "isWatching": true
     }
@@ -297,8 +297,8 @@
     "stock": {
       "ticker": "EGRX",
       "name": "Eagle Pharmaceuticals, Inc.",
-      "marketCap": "$1.12B",
-      "price": "$54.75",
+      "marketCap": "1.12B",
+      "price": "54.75",
       "isOwned": false,
       "isWatching": false
     }
@@ -314,7 +314,7 @@
       "ticker": "MITT^B",
       "name": "AG Mortgage Investment Trust, Inc.",
       "marketCap": "n/a",
-      "price": "$68.07",
+      "price": "68.07",
       "isOwned": false,
       "isWatching": false
     }
@@ -329,8 +329,8 @@
     "stock": {
       "ticker": "SAIC",
       "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
-      "marketCap": "$3.1B",
-      "price": "$39.51",
+      "marketCap": "3.1B",
+      "price": "39.51",
       "isOwned": false,
       "isWatching": false
     }
@@ -345,8 +345,8 @@
     "stock": {
       "ticker": "FJP",
       "name": "First Trust Japan AlphaDEX Fund",
-      "marketCap": "$57.72M",
-      "price": "$28.72",
+      "marketCap": "57.72M",
+      "price": "28.72",
       "isOwned": true,
       "isWatching": true
     }
@@ -361,8 +361,8 @@
     "stock": {
       "ticker": "SAMG",
       "name": "Silvercrest Asset Management Group Inc.",
-      "marketCap": "$172.77M",
-      "price": "$25.77",
+      "marketCap": "172.77M",
+      "price": "25.77",
       "isOwned": true,
       "isWatching": false
     }
@@ -377,8 +377,8 @@
     "stock": {
       "ticker": "EL",
       "name": "Estee Lauder Companies, Inc. (The)",
-      "marketCap": "$35.86B",
-      "price": "$77.81",
+      "marketCap": "35.86B",
+      "price": "77.81",
       "isOwned": false,
       "isWatching": true
     }
@@ -393,8 +393,8 @@
     "stock": {
       "ticker": "DELT",
       "name": "Delta Technology Holdings Limited",
-      "marketCap": "$19.24M",
-      "price": "$86.14",
+      "marketCap": "19.24M",
+      "price": "86.14",
       "isOwned": true,
       "isWatching": true
     }
@@ -409,8 +409,8 @@
     "stock": {
       "ticker": "ALDW",
       "name": "Alon USA Partners, LP",
-      "marketCap": "$669.59M",
-      "price": "$2.14",
+      "marketCap": "669.59M",
+      "price": "2.14",
       "isOwned": true,
       "isWatching": true
     }
@@ -425,8 +425,8 @@
     "stock": {
       "ticker": "OASM",
       "name": "Oasmia Pharmaceutical AB",
-      "marketCap": "$38.24M",
-      "price": "$18.44",
+      "marketCap": "38.24M",
+      "price": "18.44",
       "isOwned": false,
       "isWatching": true
     }
@@ -441,8 +441,8 @@
     "stock": {
       "ticker": "ACRE",
       "name": "Ares Commercial Real Estate Corporation",
-      "marketCap": "$394.2M",
-      "price": "$36.87",
+      "marketCap": "394.2M",
+      "price": "36.87",
       "isOwned": true,
       "isWatching": false
     }
@@ -457,8 +457,8 @@
     "stock": {
       "ticker": "INTG",
       "name": "The Intergroup Corporation",
-      "marketCap": "$60.18M",
-      "price": "$31.03",
+      "marketCap": "60.18M",
+      "price": "31.03",
       "isOwned": true,
       "isWatching": true
     }
@@ -473,8 +473,8 @@
     "stock": {
       "ticker": "VHI",
       "name": "Valhi, Inc.",
-      "marketCap": "$1.11B",
-      "price": "$71.72",
+      "marketCap": "1.11B",
+      "price": "71.72",
       "isOwned": true,
       "isWatching": true
     }
@@ -490,7 +490,7 @@
       "ticker": "INN^C",
       "name": "Summit Hotel Properties, Inc.",
       "marketCap": "n/a",
-      "price": "$22.37",
+      "price": "22.37",
       "isOwned": true,
       "isWatching": false
     }
@@ -506,7 +506,7 @@
       "ticker": "DTQ",
       "name": "DTE Energy Company",
       "marketCap": "n/a",
-      "price": "$71.87",
+      "price": "71.87",
       "isOwned": false,
       "isWatching": false
     }
@@ -521,8 +521,8 @@
     "stock": {
       "ticker": "KRG",
       "name": "Kite Realty Group Trust",
-      "marketCap": "$1.57B",
-      "price": "$91.39",
+      "marketCap": "1.57B",
+      "price": "91.39",
       "isOwned": true,
       "isWatching": false
     }
@@ -537,8 +537,8 @@
     "stock": {
       "ticker": "GOLD",
       "name": "Randgold Resources Limited",
-      "marketCap": "$8.55B",
-      "price": "$51.27",
+      "marketCap": "8.55B",
+      "price": "51.27",
       "isOwned": true,
       "isWatching": true
     }
@@ -553,8 +553,8 @@
     "stock": {
       "ticker": "EDAP",
       "name": "EDAP TMS S.A.",
-      "marketCap": "$105.14M",
-      "price": "$74.23",
+      "marketCap": "105.14M",
+      "price": "74.23",
       "isOwned": true,
       "isWatching": true
     }
@@ -570,7 +570,7 @@
       "ticker": "AHT^D",
       "name": "Ashford Hospitality Trust Inc",
       "marketCap": "n/a",
-      "price": "$80.45",
+      "price": "80.45",
       "isOwned": true,
       "isWatching": false
     }
@@ -585,8 +585,8 @@
     "stock": {
       "ticker": "SQBG",
       "name": "Sequential Brands Group, Inc.",
-      "marketCap": "$237.5M",
-      "price": "$50.33",
+      "marketCap": "237.5M",
+      "price": "50.33",
       "isOwned": false,
       "isWatching": true
     }
@@ -601,8 +601,8 @@
     "stock": {
       "ticker": "ULTI",
       "name": "The Ultimate Software Group, Inc.",
-      "marketCap": "$6.35B",
-      "price": "$37.46",
+      "marketCap": "6.35B",
+      "price": "37.46",
       "isOwned": true,
       "isWatching": false
     }
@@ -617,8 +617,8 @@
     "stock": {
       "ticker": "SRPT",
       "name": "Sarepta Therapeutics, Inc.",
-      "marketCap": "$1.78B",
-      "price": "$100.40",
+      "marketCap": "1.78B",
+      "price": "100.40",
       "isOwned": true,
       "isWatching": true
     }
@@ -634,7 +634,7 @@
       "ticker": "GS^C",
       "name": "Goldman Sachs Group, Inc. (The)",
       "marketCap": "n/a",
-      "price": "$19.43",
+      "price": "19.43",
       "isOwned": true,
       "isWatching": false
     }
@@ -649,8 +649,8 @@
     "stock": {
       "ticker": "PUI",
       "name": "PowerShares DWA Utilities Momentum Portfolio",
-      "marketCap": "$87.38M",
-      "price": "$18.21",
+      "marketCap": "87.38M",
+      "price": "18.21",
       "isOwned": true,
       "isWatching": true
     }
@@ -666,7 +666,7 @@
       "ticker": "PRE^I",
       "name": "PartnerRe Ltd.",
       "marketCap": "n/a",
-      "price": "$77.90",
+      "price": "77.90",
       "isOwned": true,
       "isWatching": true
     }
@@ -681,8 +681,8 @@
     "stock": {
       "ticker": "KLAC",
       "name": "KLA-Tencor Corporation",
-      "marketCap": "$15.32B",
-      "price": "$39.92",
+      "marketCap": "15.32B",
+      "price": "39.92",
       "isOwned": true,
       "isWatching": false
     }
@@ -697,8 +697,8 @@
     "stock": {
       "ticker": "CADE",
       "name": "Cadence Bancorporation",
-      "marketCap": "$1.89B",
-      "price": "$113.72",
+      "marketCap": "1.89B",
+      "price": "113.72",
       "isOwned": false,
       "isWatching": true
     }
@@ -714,7 +714,7 @@
       "ticker": "SCACU",
       "name": "Saban Capital Acquisition Corp.",
       "marketCap": "n/a",
-      "price": "$110.70",
+      "price": "110.70",
       "isOwned": false,
       "isWatching": false
     }
@@ -729,8 +729,8 @@
     "stock": {
       "ticker": "NVDQ",
       "name": "Novadaq Technologies Inc",
-      "marketCap": "$346.82M",
-      "price": "$19.65",
+      "marketCap": "346.82M",
+      "price": "19.65",
       "isOwned": true,
       "isWatching": false
     }
@@ -746,7 +746,7 @@
       "ticker": "NTEST.B",
       "name": "NASDAQ TEST STOCK",
       "marketCap": "n/a",
-      "price": "$15.00",
+      "price": "15.00",
       "isOwned": true,
       "isWatching": false
     }
@@ -761,8 +761,8 @@
     "stock": {
       "ticker": "OSG",
       "name": "Overseas Shipholding Group, Inc.",
-      "marketCap": "$192.45M",
-      "price": "$107.83",
+      "marketCap": "192.45M",
+      "price": "107.83",
       "isOwned": true,
       "isWatching": true
     }
@@ -777,8 +777,8 @@
     "stock": {
       "ticker": "EVLV",
       "name": "EVINE Live Inc.",
-      "marketCap": "$67.58M",
-      "price": "$101.65",
+      "marketCap": "67.58M",
+      "price": "101.65",
       "isOwned": false,
       "isWatching": false
     }
@@ -793,8 +793,8 @@
     "stock": {
       "ticker": "COG",
       "name": "Cabot Oil & Gas Corporation",
-      "marketCap": "$10.76B",
-      "price": "$85.06",
+      "marketCap": "10.76B",
+      "price": "85.06",
       "isOwned": true,
       "isWatching": false
     }

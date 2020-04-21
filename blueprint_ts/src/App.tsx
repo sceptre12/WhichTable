@@ -1,7 +1,6 @@
 import React from "react";
-import logo from "./logo.svg";
+import CustomTables from "./table/CustomTableComponentType";
 import "./App.css";
-import CustomTables from "./table/CustomTableComponent";
 
 function App() {
   return (
