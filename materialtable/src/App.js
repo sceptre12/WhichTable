@@ -1,8 +1,8 @@
 import React from "react";
 import logo from "./logo.svg";
-import cars from "data/cars.json";
-import animal from "data/animal.json";
-import userStocks from "data/userstocks.json";
+import cars from "data/src/cars.json";
+import animal from "data/src/animal.json";
+import userStocks from "data/src/userstocks.json";
 import "./App.css";
 
 function App() {

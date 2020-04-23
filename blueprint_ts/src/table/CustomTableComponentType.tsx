@@ -5,10 +5,10 @@ import { Column, Table, Cell } from "@blueprintjs/table";
 import { searchFiltering } from "./tableUtil";
 
 // Data
-import cars from "data/cars.json";
-import animal from "data/animal.json";
-import userStocks from "data/userstocks.json";
-import { animalColumns, userStocksColumns, carsColumns } from "data/dataTypes";
+import cars from "data/src/json/cars.json";
+import animal from "data/src/json/animal.json";
+import userStocks from "data/src/json/userstocks.json";
+import { animalColumns, userStocksColumns, carsColumns } from "./columns";
 
 // Types
 import CustomTableStateType from "../types/CustomTableState";
@@ -17,11 +17,8 @@ import {
   UserStocksColumns,
   CarsColumns,
   ColumnProperties,
-} from "data/types/Columns";
-import { DataTypes } from "data/types/enums";
-import AnimalObj from "data/types/Animal";
-import CarsObj from "data/types/Car";
-import UserStocksObj from "data/types/UserStocks";
+} from "data/dist/types/Columns";
+import { DataTypes } from "data/dist/types/dataTypeEnums";
 
 class TableWrapper extends Component {
   state: CustomTableStateType;
@@ -73,7 +70,7 @@ class TableWrapper extends Component {
    */
   getSelectedDataColumns = (
     selectedData: DataTypes
-  ): AnimalColumns | UserStocksColumns | CarsColumns => {
+  ): AnimalColumns | CarsColumns | UserStocksColumns => {
     let columnInfo;
     switch (selectedData) {
       case DataTypes.ANIMALS:
@@ -149,21 +146,25 @@ class TableWrapper extends Component {
    * TODO work on adding the logic to switch between rendering an editable cell or a plain
    * cell.
    */
-  columnRender = (columnInfo: any) => {
-    let arr = [];
-
-    for (let key in columnInfo) {
+  columnRender = <
+    T extends {
+      [key: string]: ColumnProperties;
+    }
+  >(
+    columnInfo: T
+  ) => {
+    console.log(columnInfo);
+    return Object.keys(columnInfo).map((key) => {
       const { columnName, parent, isEditable } = columnInfo[key];
-      arr.push(
+
+      return (
         <Column
           key={key}
           name={columnName}
           cellRenderer={this.cellRenderer.bind(null, key, parent)}
         />
       );
-    }
-
-    return arr;
+    });
   };
 
   /**
@@ -171,7 +172,11 @@ class TableWrapper extends Component {
    * Unresolved issue: https://github.com/palantir/blueprint/issues/508
    *  the below doesn't work
    */
-  cellRenderer = (key: string, parent: string, rowNumber: number) => {
+  cellRenderer = (
+    key: string,
+    parent: string | undefined,
+    rowNumber: number
+  ) => {
     const dataObject = this.state.selectedData.filteredData[rowNumber] as any;
     let value = !!parent ? dataObject[parent][key] : dataObject[key];
     return (
@@ -181,12 +186,12 @@ class TableWrapper extends Component {
     );
   };
 
-  editableCellRenderer = (key, parent, rowNumber) => {};
+  // editableCellRenderer = (key, parent, rowNumber) => {};
 
   changeDataSets = (e: SyntheticEvent) => {
     const select = e.target as HTMLInputElement;
-    const currentSelected = select.value;
-    this.setState((state) => {
+    const currentSelected = select.value as DataTypes;
+    this.setState((state: CustomTableStateType) => {
       const filteredData = searchFiltering(
         state[currentSelected],
         state.selectedData.filterValue
@@ -209,7 +214,6 @@ class TableWrapper extends Component {
       selectedData: { dataCount, filterValue, columnInfo },
       currentSelected,
     } = this.state;
-
     return (
       <div>
         <div>
@@ -226,9 +230,9 @@ class TableWrapper extends Component {
           value={currentSelected}
           onChange={this.changeDataSets}
         >
-          <option value={ANIMALS}>{ANIMALS}</option>
-          <option value={CARS}>{CARS}</option>
-          <option value={USER_STOCKS}>{USER_STOCKS}</option>
+          <option value={DataTypes.ANIMALS}>{DataTypes.ANIMALS}</option>
+          <option value={DataTypes.CARS}>{DataTypes.CARS}</option>
+          <option value={DataTypes.USER_STOCKS}>{DataTypes.USER_STOCKS}</option>
         </select>
         {this.state.selectedData.dataCount}
 

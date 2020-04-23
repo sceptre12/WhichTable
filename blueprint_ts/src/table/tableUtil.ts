@@ -1,6 +1,6 @@
-import AnimalObj from "data/types/Animal";
-import CarObj from "data/types/Car";
-import UserStockObj from "data/types/UserStocks";
+import AnimalObj from "data/src/types/Animal";
+import CarObj from "data/src/types/Car";
+import UserStockObj from "data/src/types/UserStocks";
 
 /**
  * TABLE UTILS:

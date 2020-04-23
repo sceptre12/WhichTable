@@ -1,8 +1,8 @@
-import { AnimalColumns, UserStocksColumns, CarsColumns } from "./types/Columns";
-
-export const ANIMALS = "animals";
-export const USER_STOCKS = "userStocks";
-export const CARS = "cars";
+import {
+  AnimalColumns,
+  UserStocksColumns,
+  CarsColumns,
+} from "data/src/types/Columns";
 
 export const animalColumns: AnimalColumns = {
   uuid: {
