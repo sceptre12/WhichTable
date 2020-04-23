@@ -4,7 +4,7 @@ export interface ColumnProperties {
   isEditable: boolean;
 }
 
-type AnimalColProperties =
+export type AnimalColProperties =
   | "uuid"
   | "name"
   | "type"

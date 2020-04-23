@@ -3,7 +3,7 @@ export interface ColumnProperties {
     parent: string | undefined;
     isEditable: boolean;
 }
-declare type AnimalColProperties = "uuid" | "name" | "type" | "gender" | "image" | "isSelected" | "latitude" | "longitude";
+export declare type AnimalColProperties = "uuid" | "name" | "type" | "gender" | "image" | "isSelected" | "latitude" | "longitude";
 export declare type AnimalColumns = {
     [key in AnimalColProperties]: ColumnProperties;
 };
