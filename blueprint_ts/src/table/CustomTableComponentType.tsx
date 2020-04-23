@@ -153,7 +153,6 @@ class TableWrapper extends Component {
   >(
     columnInfo: T
   ) => {
-    console.log(columnInfo);
     return Object.keys(columnInfo).map((key) => {
       const { columnName, parent, isEditable } = columnInfo[key];
 

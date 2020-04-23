@@ -20,7 +20,7 @@ export const searchFiltering = (
   filterValue: string
 ): Array<AnimalObj | CarObj | UserStockObj> => {
   // The type of filter value is always a string
-  return !!filterValue
+  return !filterValue
     ? data
     : data.filter((currentData: AnimalObj | CarObj | UserStockObj) => {
         let isFiltered = false;
