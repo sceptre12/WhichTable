@@ -1,20 +1,20 @@
-import React, { Component, Fragment } from "react";
+import React, { Component } from "react";
 import { string } from "prop-types";
 
 import CustomTableComponentType from "./CustomTableComponentType";
 
 // Data
-import animal from "data/src/json/animal.json";
+import cars from "data/src/json/cars.json";
 
-import { animalColumns } from "./columns";
+import { carsColumns } from "./columns";
 
-class AnimalTableWrapper extends Component {
+class CarTableWrapper extends Component {
   constructor(props) {
     super(props);
 
     this.state = {
-      data: animal,
-      columns: animalColumns,
+      data: cars,
+      columns: carsColumns,
     };
   }
 
@@ -32,16 +32,16 @@ class AnimalTableWrapper extends Component {
 
   onKeyPress = (cellObjData, key, cellValue, rowNumber, colNumber) => {};
 
-  animalFiltering = (data, filterVal) => {
+  carFiltering = (data, filterVal) => {
     return !filterVal
       ? data
       : data.filter((currentData) => {
           let isFiltered = false;
 
           // Check on all of the keys to see what matches
-          for (let [key, value] of Object.entries(currentData.animal)) {
+          for (let [key, value] of Object.entries(currentData.car)) {
             if (isFiltered) break;
-            if (key === "image" || key === "isSelected") continue;
+            if (key === "isSelected") continue;
 
             const type = typeof value;
 
@@ -62,7 +62,7 @@ class AnimalTableWrapper extends Component {
 
     return (
       <CustomTableComponentType
-        data={this.animalFiltering(data, filterInfo)}
+        data={this.carFiltering(data, filterInfo)}
         columns={columns}
         cellListeners={{
           onCancel: this.onCancel,
@@ -77,8 +77,8 @@ class AnimalTableWrapper extends Component {
   }
 }
 
-AnimalTableWrapper.propTypes = {
+CarTableWrapper.propTypes = {
   filterInfo: string.isRequired,
 };
 
-export default AnimalTableWrapper;
+export default CarTableWrapper;
