@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { string } from "prop-types";
 
-import CustomTableComponentType from "./CustomTableComponentType";
+import BaseTable from "./BaseTable";
 
 // Data
 import cars from "data/src/json/cars.json";
@@ -61,7 +61,7 @@ class CarTableWrapper extends Component {
     const { filterInfo } = this.props;
 
     return (
-      <CustomTableComponentType
+      <BaseTable
         data={this.carFiltering(data, filterInfo)}
         columns={columns}
         cellListeners={{

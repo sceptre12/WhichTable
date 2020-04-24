@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from "react";
 import { string } from "prop-types";
 
-import CustomTableComponentType from "./CustomTableComponentType";
+import BaseTable from "./BaseTable";
 
 // Data
 import animal from "data/src/json/animal.json";
@@ -20,17 +20,70 @@ class AnimalTableWrapper extends Component {
 
   // These listeners normally would be different depending on the data type but I'm making them generic for now
 
-  onCancel = (cellObjData, key, cellValue, rowNumber, colNumber) => {};
+  onCancel = (
+    cellObjData,
+    key,
+    parent,
+    cellValue,
+    rowNumber,
+    updatedValue
+  ) => {};
 
-  onChange = (cellObjData, key, cellValue, rowNumber, colNumber) => {};
+  onChange = (cellObjData, key, parent, cellValue, rowNumber, updatedValue) => {
+    this.setState((state) => {
+      const tempArr = state.data.slice();
+      const tempData = { ...tempArr[rowNumber] };
 
-  onConfirm = (cellObjData, key, cellValue, rowNumber, colNumber) => {};
+      if (!!parent) {
+        tempData[parent][key] = updatedValue;
+      } else {
+        tempData[key] = updatedValue;
+      }
 
-  onKeyUp = (cellObjData, key, cellValue, rowNumber, colNumber) => {};
+      tempArr[rowNumber] = tempData;
 
-  onKeyDown = (cellObjData, key, cellValue, rowNumber, colNumber) => {};
+      return {
+        ...state,
+        data: tempArr,
+      };
+    });
+  };
 
-  onKeyPress = (cellObjData, key, cellValue, rowNumber, colNumber) => {};
+  onConfirm = (
+    cellObjData,
+    key,
+    parent,
+    cellValue,
+    rowNumber,
+    updatedValue
+  ) => {};
+
+  onKeyUp = (
+    cellObjData,
+    key,
+    parent,
+    cellValue,
+    rowNumber,
+    updatedValue
+  ) => {};
+
+  onKeyDown = (
+    cellObjData,
+    key,
+    parent,
+    cellValue,
+    rowNumber,
+    updatedValue
+  ) => {};
+
+  onKeyPress = (
+    cellObjData,
+    key,
+    parent,
+    cellValue,
+    rowNumber,
+    updatedValue
+  ) => {};
 
   animalFiltering = (data, filterVal) => {
     return !filterVal
@@ -61,7 +114,7 @@ class AnimalTableWrapper extends Component {
     const { filterInfo } = this.props;
 
     return (
-      <CustomTableComponentType
+      <BaseTable
         data={this.animalFiltering(data, filterInfo)}
         columns={columns}
         cellListeners={{

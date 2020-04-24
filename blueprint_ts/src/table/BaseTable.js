@@ -1,4 +1,7 @@
 import React from "react";
+import { Column, Table } from "@blueprintjs/table";
+
+import getCellRenderer from "./util/cellRenderers";
 
 // Prop Types
 import { func, oneOf, arrayOf, shape } from "prop-types";
@@ -13,47 +16,54 @@ import {
   UserStockColPropTypes,
 } from "../types/columnPropTypes";
 
-import { Column, Table, Cell } from "@blueprintjs/table";
-
 const TableWrapper = ({ data, columns, cellListeners }) => {
   /**
-   * TODO work on adding the logic to switch between rendering an editable cell or a plain
-   * cell.
+   * Todo - There will need to be logic coming from external wrapper
+   * that will pass styles to the column and the cell
    */
   const columnRender = () => {
     return Object.keys(columns).map((key) => {
-      const { columnName, parent, isEditable } = columns[key];
-
+      const {
+        columnName,
+        parent,
+        isEditable,
+        isImage,
+        isColor,
+        isButton,
+        isCheckBox,
+      } = columns[key];
+      const cellRenderer = getCellRenderer(
+        isEditable,
+        isImage,
+        isColor,
+        isButton,
+        isCheckBox
+      );
       return (
         <Column
           key={key}
           name={columnName}
-          cellRenderer={cellRenderer.bind(null, key, parent)}
+          cellRenderer={cellRenderer.bind(
+            null,
+            data,
+            key,
+            parent,
+            cellListeners
+          )}
         />
       );
     });
-  };
-
-  /**
-   * TODO figure out how to add mouse click interactions for cells
-   * Unresolved issue: https://github.com/palantir/blueprint/issues/508
-   *  the below doesn't work
-   */
-  const cellRenderer = (key, parent, rowNumber) => {
-    const dataObject = data[rowNumber];
-    let value = !!parent ? dataObject[parent][key] : dataObject[key];
-    return (
-      <Cell>
-        <span onClick={() => console.log("HELLo")}>{value.toString()}</span>
-      </Cell>
-    );
   };
 
   // editableCellRenderer = (key, parent, rowNumber) => {};
 
   return (
     <div>
-      <Table numRows={data.length} defaultColumnWidth={100}>
+      <Table
+        numRows={data.length}
+        defaultColumnWidth={100}
+        defaultRowHeight={50}
+      >
         {columnRender()}
       </Table>
     </div>

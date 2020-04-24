@@ -4,6 +4,10 @@ export const ColumnValuePropTypes = shape({
   columnName: string.isRequired,
   parent: oneOf([string, undefined]),
   isEditable: bool.isRequired,
+  isImage: bool.isRequired,
+  isColor: bool.isRequired,
+  isButton: bool.isRequired,
+  isCheckBox: bool.isRequired,
 });
 
 export const AnimalColPropTypes = shape({

@@ -162,8 +162,8 @@
         "signature": "d48e3d7e068970a2a0d4c66c20873a5a67279139f9b6f6622aa51e9c1459eedf"
       },
       "../src/types/columns.ts": {
-        "version": "86460dba01eea27df0fae6fd3da315b4574f588c84b41cc973ce122ecd8ac260",
-        "signature": "7e2fd54e8f9a5ab076a09908b2487eaad39dee9b9ba4d0395b3de6ce69ff4572"
+        "version": "6915c67e5ad73b8b4586486601e2570b290715db0c7523ad6cf3a895a6c7292d",
+        "signature": "0c37347037148c47e70df93dead3290d38405eb6dad691b97e20326607153e92"
       },
       "../src/types/datatypeenums.ts": {
         "version": "c069b43257beb653db650583334d36360dcd35ad3c25f5705b389e5375c6c3a5",
@@ -271,11 +271,11 @@
       "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
       "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "../src/types/animal.ts",
+      "../src/types/datatypeenums.ts",
       "../src/types/userstocks.ts",
       "../src/types/car.ts",
       "../src/types/columns.ts",
       "../src/types/index.ts",
-      "../src/types/datatypeenums.ts",
       "../src/index.ts"
     ]
   },

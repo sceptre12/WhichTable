@@ -2,6 +2,10 @@ export interface ColumnProperties {
   columnName: string;
   parent: string | undefined;
   isEditable: boolean;
+  isImage: boolean;
+  isColor: boolean;
+  isButton: boolean;
+  isCheckBox: boolean;
 }
 
 export type AnimalColProperties =
